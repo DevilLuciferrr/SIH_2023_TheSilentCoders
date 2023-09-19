@@ -3,6 +3,7 @@
 
 ### Video Link - 
 https://drive.google.com/file/d/1NWzauEaW8i4f6oPgRUEhGP5rUTvy5NSE/view?usp=sharing
-(P.S. - Please download the video to view it because the drive link has some quality problems.)
+
+(P.S. - Please download the video to view it because drive has some quality problems.)
 
 ### Deployed Link -
