@@ -81,7 +81,7 @@ class RegisterDoctor extends Component {
                         <Form.Field>
                             <label>Full Name</label>
                             <Input
-                                placeholder = 'Eg. John Smith'                        
+                                placeholder = 'Eg. Aayush'                        
                                 value= {this.state.name}
                                 onChange= {event => 
                                     this.setState({ name: event.target.value })}                           
@@ -91,7 +91,7 @@ class RegisterDoctor extends Component {
                         <Form.Field>
                             <label>Phone</label>
                             <Input
-                                placeholder = 'Eg. 0123456789'
+                                placeholder = 'Eg. 7777777777'
                                 value= {this.state.phone}
                                 onChange= {event => 
                                     this.setState({ phone: event.target.value })}  
