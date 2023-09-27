@@ -88,7 +88,7 @@ class RegisterPatient extends Component {
                         <Form.Field>
                             <label>Full Name</label>
                             <Input
-                                placeholder = 'Eg. John Smith'                        
+                                placeholder = 'Eg. Sagar Giri'                        
                                 value= {this.state.name}
                                 onChange= {event => 
                                     this.setState({ name: event.target.value })}                           
@@ -98,7 +98,7 @@ class RegisterPatient extends Component {
                         <Form.Field>
                             <label>Phone</label>
                             <Input
-                                placeholder = 'Eg. 0123456789'
+                                placeholder = 'Eg. 9999999999'
                                 value= {this.state.phone}
                                 onChange= {event => 
                                     this.setState({ phone: event.target.value })}  
@@ -153,7 +153,7 @@ class RegisterPatient extends Component {
                     <Form.Group widths='equal'>
                         <Form.TextArea
                                 label='House Address'
-                                placeholder = 'Eg. 1234, Jalan Seksyen 1/3, 31900 Kampar, Perak'
+                                placeholder = 'Eg. 1234, Dwarka, Delhi - 110054'
                                 value= {this.state.houseaddr}
                                 onChange= {event => 
                                     this.setState({ houseaddr: event.target.value })}  
@@ -199,7 +199,7 @@ class RegisterPatient extends Component {
                        <Form.Field>
                             <label>Emergency Contact Name</label>
                             <Input 
-                                placeholder = 'Eg. Taylor Smith'
+                                placeholder = 'Eg. Swati Singh'
                                 value= {this.state.emergencyName}
                                 onChange= {event => 
                                     this.setState({ emergencyName: event.target.value })}  
@@ -209,7 +209,7 @@ class RegisterPatient extends Component {
                         <Form.Field>
                             <label>Emergency Contact Phone</label>
                             <Input 
-                                placeholder = 'Eg. 0124995002'
+                                placeholder = 'Eg. 88888888'
                                 value= {this.state.emergencyContact}
                                 onChange= {event => 
                                     this.setState({ emergencyContact: event.target.value })}  
