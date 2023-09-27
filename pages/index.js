@@ -368,7 +368,7 @@ const HomepageLayout = () => (
             </p>
           </Grid.Column>
           <Grid.Column floated='right' width={6}>
-            <Image bordered rounded size='large' src='https://cdn.stocksnap.io/img-thumbs/960w/male-doctor_KN1OCKC4Y2.jpg' />
+            <Image bordered rounded size='large' src='https://media.istockphoto.com/id/1292015214/photo/portrait-female-doctor-stock-photo.jpg?s=612x612&w=0&k=20&c=nr4XaWnRPQnWqwhzahajZhskIDG1yK9DmIteV5gpUOI=' />
           </Grid.Column>
         </Grid.Row>
         <Grid.Row>
@@ -394,7 +394,7 @@ const HomepageLayout = () => (
             </Header>
             <p style={{ fontSize: '1.33em' }}>
               <Image avatar src='https://365psd.com/images/istock/previews/8717/87172655-female-doctor-icon-nurse-symbol-faceless-woman-doctor-with-a-stethoscope.jpg' />
-              <b>Dr Lim</b>, Surgeon at Pantai Hospital
+              <b>Dr Preeti Gandhi</b>, AIIMS, Delhi
             </p>
           </Grid.Column>
         </Grid.Row>
